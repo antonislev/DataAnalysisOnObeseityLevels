@@ -19,7 +19,7 @@ report on Estimation of Obesity Levels Based On Eating Habits and Physical Condi
 
 ## 📂 Δομή Φακέλων
 
-```text
+```
 ├── data/  
 │   ├── data.csv                     # αρχικό raw dataset  
 │   ├── data_clean_step_a.csv        # (α) καθαρισμός  
@@ -40,9 +40,9 @@ report on Estimation of Obesity Levels Based On Eating Habits and Physical Condi
 │   └── overview.png                 # διάγραμμα pipeline (προαιρετικό)  
 │  
 ├── requirements.txt                 # λίστα Python libraries  
-└── README.md                        # αυτή η τεκμηρίωση  
-**
+└── README.md                        # αυτή η τεκμηρίωση
 
+```
 Φόρτωση & Εκτέλεση Notebooks
 
 01_data_processing.ipynb
